@@ -1,0 +1,24 @@
+# Maven
+/target/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Misc
+*.log
+.DS_Store
+
+# Maven wrapper
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Windows
+Thumbs.db
